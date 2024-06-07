@@ -67,7 +67,7 @@ const portfolio = [
     description:
       "Developed a CRUD blog application using Flask, PostgreSQL, React, TypeScript, and JavaScript to provide users with a seamless content creation and management experience. The project aimed to deliver a modern, responsive, and user-friendly platform, emphasizing efficient data handling and performance",
     image: devnotes,
-    link: "https://reactblog-1tzr.onrender.com/"
+    link: "https://kekambasblog.netlify.app/"
   },
   {
     name: "BlackJack Simulator",
