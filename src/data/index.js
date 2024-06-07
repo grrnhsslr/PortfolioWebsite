@@ -60,18 +60,21 @@ const portfolio = [
     description:
       "Led the development of a feature-rich chat application using Node.js, React, HTML5, and CSS to facilitate real-time communication and collaboration among users. The project aimed to deliver a modern and intuitive chat platform with a focus on user experience, and performance",
     image: oscs,
+    link: "https://garrenschatapp.netlify.app/"
   },
   {
     name: "CRUD Blog",
     description:
       "Developed a CRUD blog application using Flask, PostgreSQL, React, TypeScript, and JavaScript to provide users with a seamless content creation and management experience. The project aimed to deliver a modern, responsive, and user-friendly platform, emphasizing efficient data handling and performance",
     image: devnotes,
+    link: "https://reactblog-1tzr.onrender.com/"
   },
   {
     name: "BlackJack Simulator",
     description:
       "Developed a comprehensive Blackjack simulator using Object-Oriented Programming (OOP) principles to replicate the popular casino card game. The simulator provides an interactive and realistic gaming experience, allowing users to play against the computer dealer.",
     image: algorithms,
+    link: "https://github.com/grrnhsslr/Py_BlackJack"
   },
 ];
 
