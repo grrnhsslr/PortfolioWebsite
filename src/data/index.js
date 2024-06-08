@@ -63,7 +63,7 @@ const portfolio = [
     link: "https://garrenschatapp.netlify.app/"
   },
   {
-    name: "CRUD Blog",
+    name: "CRUD Blog (this one takes some time to start up)",
     description:
       "Developed a CRUD blog application using Flask, PostgreSQL, React, TypeScript, and JavaScript to provide users with a seamless content creation and management experience. The project aimed to deliver a modern, responsive, and user-friendly platform, emphasizing efficient data handling and performance",
     image: devnotes,
