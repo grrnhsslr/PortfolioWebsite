@@ -55,6 +55,7 @@ const Contact = () => {
           <a href="mailto:hasslergarren@gmail.com">hasslergarren@gmail.com</a>
           <span className='text-white font-medium mt-3'>Connect With Me</span>
           <a href="https://www.linkedin.com/in/garren-hassler/">LinkedIn</a>
+          <a href="https://github.com/grrnhsslr/" className='text-white font-medium mt-3'>Link to my Github</a>
         </form>
       </motion.div>
     </div>
